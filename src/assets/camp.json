@@ -1,0 +1,603 @@
+{
+  "data": [
+    {
+      "name": "Kamala Nehru Memorial Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [81.861422,25.458580],
+        "address": "Hashimpur Road, Allahabad, Uttar Pradesh"
+      }
+    },
+    {
+      "name": "Moti Lal Nehru Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [81.826650,25.439518],
+        "address": "Colvin Road, Allahabad, Uttar Pradesh"
+      }
+    },
+    {
+      "name": "Maa Sharda Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [81.857424,25.439494],
+        "address": "84/70, New Bairahana, Allahabad, Uttar Pradesh"
+      }
+    },
+    {
+      "name": "Nazareth Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [81.846736,25.456356],
+        "address": "13/A, Kamla Nehru Road, Allahabad, Uttar Pradesh"
+      }
+    },
+    {
+      "name": "Jeevan Jyoti Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [81.846607,25.436203],
+        "address": "Lowther Rd, Himmat Ganj, Bai Ka Bagh, Prayagraj, Uttar Pradesh"
+      }
+    },
+    {
+      "name": "Indraprastha Apollo Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.282613,28.540782],
+        "address": "Mathura Rd, New Delhi, Delhi"
+      }
+    },
+    {
+      "name": "Artemis Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.072058,28.431751],
+        "address": "Sector 51, Gurugram, Haryana"
+      }
+    },
+    {
+      "name": "Moolchand Medcity",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.234853,28.566170],
+        "address": "Lala Lajpat Rai Marg, Near Moolchand Metro Station, Block M, Lajpat Nagar III, Lajpat Nagar, New Delhi, Delhi"
+      }
+    },
+    {
+      "name": "BLK Super Speciality Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.179233,28.643134],
+        "address": "Pusa Rd, Radha Soami Satsang, Rajendra Place, New Delhi, Delhi"
+      }
+    },
+    {
+      "name": "Fortis Memorial research institute",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.075991,28.447692],
+        "address": "Sector 44 Rd, Kanhai Colony, Sector 44, Gurugram, Haryana"
+      }
+    },
+    {
+      "name": "Bombay Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [75.903495,22.754208],
+        "address": "IDA Scheme, Eastern Ring Road, Vijay Nagar, Indore, MP"
+      }
+    },
+    {
+      "name": "Arihant Hospital and Research Center",
+      "location": {
+        "type": "Point",
+        "coordinates": [75.829339,22.701115],
+        "address": "283-A; Scheme No 71, Ring Road; Gumasta Nagar, Indore; MP"
+      }
+    },
+    {
+      "name": "Greater Kailash Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [75.889816,22.725264],
+        "address": "11/2, Old Palasia, Close to Palasia Thana, Indore, MP"
+      }
+    },
+    {
+      "name": "Choithram Hospital and Research Center",
+      "location": {
+        "type": "Point",
+        "coordinates": [75.855603,22.703578],
+        "address": "14. ManikBagh Road, Indore, MP"
+      }
+    },
+    {
+      "name": "Mahatma Gandhi Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [75.854343,26.769653],
+        "address": "RIICO Institutional Area, Sitapura, Tonk Road, Jaipur"
+      }
+    },
+    {
+      "name": "Narayana Multispecialty Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [75.824077,26.794894],
+        "address": "Rana Sanga Marg, Sector 28, Sanganer, Pratap Nagar, Jaipur, Rajasthan"
+      }
+    },
+    {
+      "name": "S K Soni Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [75.773690,26.967436],
+        "address": "Sector 5, Main Sikar Road, Vidhyadhar Nagar, Jaipur- Rajasthan"
+      }
+    },
+    {
+      "name": "Monilek Hospital & Research Center",
+      "location": {
+        "type": "Point",
+        "coordinates": [75.833946,26.886962],
+        "address": "Sector 4, Jawahar Nagar, Jaipur - 302 004, Rajasthan"
+      }
+    },
+    {
+      "name": "Fortis Medical Centre",
+      "location": {
+        "type": "Point",
+        "coordinates": [88.354680,22.538703],
+        "address": "730, Anandapur, E.M Bypass Road, Kolkata , West Bengal"
+      }
+    },
+    {
+      "name": "Apollo Gleneagles Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [88.389763,22.596796],
+        "address": "58, Canal Circular Road, Kadapara, Kolkata"
+      }
+    },
+    {
+      "name": "Ruby General Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [88.402801,22.513298],
+        "address": "Kasba Golpark EM Bypass, Kolkata West Bengal"
+      }
+    },
+    {
+      "name": "Calcutta Medical Research Institute",
+      "location": {
+        "type": "Point",
+        "coordinates": [88.327609,22.532385],
+        "address": "Diamond Harbour Rd, New Alipore, Kolkata, West Bengal"
+      }
+    },
+    {
+      "name": "Post Graduate Institute of Medical Education & Research",
+      "location": {
+        "type": "Point",
+        "coordinates": [76.776256,30.761548],
+        "address": "Sector-12, Chandigarh, Punjab"
+      }
+    },
+    {
+      "name": "INSCOL Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [76.770624,30.722337],
+        "address": "SCO 18-19, Sector 34-A, Chandigarh, Punjab"
+      }
+    },
+    {
+      "name": "Ivy Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [76.707863,30.707001],
+        "address": "Sector 71, Mohali, Punjab"
+      }
+    },
+    {
+      "name": "Silver Oaks Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [76.730643,30.692264],
+        "address": "Phase IX, Sector - 63, SAS Nagar, Mohali, Punjab"
+      }
+    },
+    {
+      "name": "Sterling Hospitals",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.536713,23.005216],
+        "address": "Sterling Hospital Road, Memnagar Ahmedabad, Gujarat"
+      }
+    },
+    {
+      "name": "Apollo Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.636823,23.215579],
+        "address": "Plot No.1 A, Bhat GIDC Estate, Gandhinagar - 382428, Gujarat"
+      }
+    },
+    {
+      "name": "SAL Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.524096,23.049414],
+        "address": "Opposite Doordarshan, Drive-in Road, Ahmedabad - 380 054, Gujarat"
+      }
+    },
+    {
+      "name": "Shalby Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.506840,23.019058],
+        "address": "Opposite Karnavati Club, S.G. Highway, Ahmedabad, Gujarat"
+      }
+    },
+    {
+      "name": "Kalinga Hospital Ltd",
+      "location": {
+        "type": "Point",
+        "coordinates": [85.818554,20.313414],
+        "address": "Near Jagannath Temple, Chandrasekharpur, Bhubaneshwar, 751014, Odisha"
+      }
+    },
+    {
+      "name": "Apollo Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [85.831533,20.305641],
+        "address": "Plot No. 251, Old Sainik School Road Bhubaneswar - 750015, Odisha"
+      }
+    },
+    {
+      "name": "Neelachal Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [85.845691,20.270537],
+        "address": "A/84, Kharvel Nagar, Unit-3, Bhubaneshwar, Odisha"
+      }
+    },
+    {
+      "name": "Vivekanand Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [85.799861,20.279627],
+        "address": "A 54/1, Near Fire Station, Fire Station Square Baramunda, Bhubaneswar"
+      }
+    },
+    {
+      "name":"Manipal Hospital",
+      "location":{
+          "type":"Point",
+          "coordinates": [73.81350491271374,15.460067933047563],
+          "address":"Panaji, Dr E Borges Rd, Dona Paula, Goa 403004, India"
+      }
+    },
+    
+    {
+      "name":"Victor Hospital ",
+      "location":{
+            "type":"Point",
+            "coordinates": [73.96564553969469,15.269903840989524],
+            "address":"Station, near Carmelite Monastery, Malbhat, Margao, Goa 403601, India"
+            }
+    
+    },
+    
+    
+    {
+      "name":"Vision Multispeciality Hospital",
+      "location":{
+          "type":"Point",
+          "coordinates": [73.82047301034541,15.604377524154],
+          "address":"Duler Ground Rd, Dangui Colony, Ghateshwar Nagar, Sonar Vaddo, Karaswada, Mapusa, Goa 403507, India"
+            }
+    
+    },
+    
+    {
+      "name":"Dr. Kolwalkar's Galaxy Hospital",
+      "location":{
+          "type":"Point",
+          "coordinates": [73.8132991262064, 15.60603502223754],
+          "address":"Mapusa - Duler - Camurlim Rd, Near S.P.G. Hall/Severina Gardens, Xelpem, Duler, Mapusa, Goa 403507, India"
+            }
+    
+    },
+    
+    {
+      "name":"V.M. Salgaocar Hospital",
+      "location":{
+          "type":"Point",
+          "coordinates": [73.83674762230885,15.394811215721733],
+          "address":"Off. Airport Road, Chicalim, Vasco da Gama, Goa 403711, India"
+            }
+    
+    },
+    
+    
+    {
+      "name":"Fortis Hospital",
+      "location":{
+          "type":"Point",
+          "coordinates": [77.60085119848868,12.897416337330544],
+          "address":"154, 9, Bannerghatta Main Rd, Opposite IIM, Sahyadri Layout, Panduranga Nagar, Bengaluru, Karnataka 560076, India"
+            }
+    },
+    {
+      "name":"Manipal Hospital",
+      "location":{
+          "type":"Point",
+          "coordinates": [77.64883639734853,12.958568836116614],
+          "address":"98, HAL Old Airport Rd, Kodihalli, Bengaluru, Karnataka 560017, India"
+      }
+    },
+    {
+      "name":"Columbia Asia Referral Hospital",
+      "location":{
+          "type":"Point",
+          "coordinates": [77.55603461084021,13.014388702665126],
+          "address":"26/4, Brigade Gateway, beside Metro, Malleshwaram, Bengaluru, Karnataka 560055, India"
+      }
+    },
+    {
+      "name":"Aster CMI Hospital",
+      "location":{
+          "type":"Point",
+          "coordinates": [77.59200842803895,13.054784796987386],
+          "address":"#43/2, New Airport Road, NH-7, Outer Ring Rd, Sahakar Nagar, Bengaluru, Karnataka 560092, India"
+      }
+    },
+    {
+      "name":"Apollo Hospital ",
+      "location":{
+          "type":"Point",
+          "coordinates": [77.58428548200341,12.936726773487276],
+          "address":"#21/2, 14th Cross Road, near Madhavan Park Circle, Jayanagar East, Jayanagar, Bengaluru, Karnataka 560011, India"
+        }
+    },
+    
+    {
+      "name":"Dr. Kamakshi Memorial Hospital",
+      "location":{
+          "type":"Point",
+          "coordinates": [80.25400753655596,13.002975184839055],
+          "address":"6, 13, Kasturba Nagar 3rd Cross St, Adyar, Chennai, Tamil Nadu 600020, India"
+            }
+    },
+    {
+      "name":"Dr. Mehta's Hospitals",
+      "location":{
+          "type":"Point",
+          "coordinates": [80.23974143663705,13.074683730888482],
+          "address":"No.2, Mc Nichols Rd, Chetpet, Chennai, Tamil Nadu 600031, India"
+            }
+    
+    },
+    
+    {
+      "name":"Frontier Lifeline Hospital",
+      "location":{
+          "type":"Point",
+          "coordinates": [80.1704922801509,13.088793692280625],
+          "address":"R 30 C, Ambattur Industrial Estate Rd, Mogappair, Chennai, Tamil Nadu 600101, India"
+            }
+    
+    },
+    
+    {
+      "name":"Fortis Malar Hospital",
+      "location":{
+          "type":"Point",
+          "coordinates": [80.25921867963424,13.010362886764177],
+          "address":"No. 52, 1st Main Rd, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020, India"
+            }
+    
+    },
+    
+    {
+      "name":"Apollo Hospitals",
+      "location":{
+          "type":"Point",
+          "coordinates": [80.27216834247086,13.018568236523288],
+          "address":"Sathyadev Ave, opp. Chettinad Vidyashram, MRC Nagar, Raja Annamalai Puram, Chennai, Tamil Nadu 600028, India"
+            }
+    
+    },
+    
+    {
+      "name":"Seven Hills Hospital",
+      "location":{
+          "type":"Point",
+          "coordinates": [72.87820367227877,19.11785778864668],
+          "address":"Marol Maroshi Rd, Shivaji Nagar JJC, Marol, Andheri East, Mumbai, Maharashtra 400059, India"
+            }
+    
+    },
+    
+    {
+      "name":"Nanavati Hospital",
+      "location":{
+          "type":"Point",
+          "coordinates": [72.83929212253659,19.095425980323384],
+          "address":"Airport Area, Juhu, Mumbai, Maharashtra 400049, India"
+            }
+    
+    },
+    {
+      "name":"Global Hospital",
+      "location":{
+          "type":"Point",
+          "coordinates": [72.9802689820642,19.2272067379621],
+          "address":"Mhatre Estate, 1st floor, opposite M.S.E.B office, above Krishna jewelers, Naka, Kolshet Rd, 400607, Dhokali, Thane West, Thane, Maharashtra 400607, India"
+            }
+    
+    },
+    
+    {
+      "name":"Fortis Hospital",
+      "location":{
+          "type":"Point",
+          "coordinates": [73.12333575137451,19.2375879522154],
+          "address":"Shill Road, Bail Bazaar, Kalyan, Mumbai, Maharashtra 421301, India"
+           }	
+    
+    },
+    
+    {
+      "name":"Kohinoor Hospital",
+      "location":{
+          "type":"Point",
+          "coordinates": [72.88663222016666,19.076274480310662],
+          "address":"Kirol Road, Off, Lalbahadur Shastri Rd, Kurla West, Mumbai, Maharashtra 400070, India"
+           }	
+    
+    },
+    
+    {
+      "name":"Kohinoor Hospital",
+      "location":{
+          "type":"Point",
+          "coordinates": [72.88663222016666,19.076274480310662],
+          "address":"Kirol Road, Off, Lalbahadur Shastri Rd, Kurla West, Mumbai, Maharashtra 400070, India"
+           }	
+    
+    },
+    
+    {
+      "name":"VPS Lakeshore Hospital",
+      "location":{
+          "type":"Point",
+          "coordinates": [76.31850177457123,9.919022549187554],
+          "address":"NH-66 Bypass, near Police Station, Nettoor, Maradu, Kochi, Kerala 682040, India"
+           }	
+    
+    },
+    
+    {
+      "name":"Amrita Institute of Medical Sciences",
+      "location":{
+          "type":"Point",
+          "coordinates": [76.29191850258665,10.033462789883147],
+          "address":"Ponekkara, P. O, Kochi, Kerala 682041, India"
+           }	
+    
+    },
+    
+    {
+      "name":"Medical Trust Hospital",
+      "location":{
+          "type":"Point",
+          "coordinates": [76.28780820110607, 9.966834370033],
+          "address":"Mahatma Gandhi Rd, Pallimukku, Kochi, Kerala 682016, India"
+           }	
+    
+    },
+    
+    {
+      "name":"Ernakulam Medical Center",
+      "location":{
+          "type":"Point",
+          "coordinates": [76.31476208618938,10.000406799009994],
+          "address":"National Highway Bypass, NH 66, Palarivattom, Kochi, Kerala 682028, India"
+           }	
+    
+    },
+    
+    {
+      "name":"Lisie Hospital",
+      "location":{
+          "type":"Point",
+          "coordinates": [76.28820927034829,9.988476784795004],
+          "address":"Lisie Hospital Rd, North Kaloor, Kaloor, Ernakulam, Kerala 682018, India"
+        }	
+    },
+    {
+      "name": "Continental Hospitals",
+      "location": {
+        "type": "Point",
+        "coordinates": [78.3395550145869,17.417531830975868],
+        "address": "Plot No, 3, Rd Number 2, Financial District, Nanakaramguda, Telangana 500035, India"
+      }
+    },
+    {
+      "name": "Apollo Hospitals",
+      "location": {
+        "type": "Point",
+        "coordinates": [78.41565397410783,17.415286867884912],
+        "address": "Apollo Health City, Film Nagar, Hyderabad, Telangana 500033, India"
+      }
+    },
+    {
+      "name": "Asian Institute of Nephrology and Urology",
+      "location": {
+        "type": "Point",
+        "coordinates": [78.4541007103636,17.416835679255403],
+        "address": "6-3-562/A, Irram Manzil Colony, Somajiguda, Hyderabad, Telangana 500082, India"
+      }
+    },
+    {
+      "name": "Aware Global Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [78.53734636996451,17.343885344658503],
+        "address": "Dwarka Nagar Colony, Bairamalguda, Telangana 500079, India"
+      }
+    },
+    {
+      "name": "Basavatarakam Indo American Cancer Hospital & Research Institute",
+      "location": {
+        "type": "Point",
+        "coordinates": [78.43048038204344,17.41731262654041],
+        "address": "Road No. 10, IAS Officers Quaters, Nandi Nagar, Banjara Hills, Hyderabad, Telangana 500034, India"
+      }
+    },
+    {
+      "name": "Crescent Hospital & Heart Centre",
+      "location": {
+        "type": "Point",
+        "coordinates": [79.0788376974339,21.134345986649027],
+        "address": "Plot No. 5 1st Lane Behind Old Mount Carmel School, Lokmat Square, Dhantoli, Nagpur, Maharashtra 440012, India"
+      }
+    },  
+    {
+      "name": "Criticare Hospital & Research Institute",
+      "location": {
+        "type": "Point",
+        "coordinates": [79.08527704954562,21.140787741447767],
+        "address": "Dhanshri Complex, 4th Floor, Humpyard Rd, near Hardeo Hotel, Sitabuldi, Nagpur, Maharashtra 440012, India"
+      }
+    },
+    {
+      "name": "Meditrina Institute of Medical Sciences",
+      "location": {
+        "type": "Point",
+        "coordinates": [79.07128065695998,21.13329189675498],
+        "address": "278, Central Bazar Road, Ramdaspeth, Nagpur, Maharashtra 440012, India"
+      }
+    },
+    {
+      "name": "Sengupta Hospital And Research Institute",
+      "location": {
+        "type": "Point",
+        "coordinates": [79.05578426674427,21.148240442397633],
+        "address": "Amravati Rd, Ravi Nagar, Tilak Nagar, Gokulpeth, Nagpur, Maharashtra 440033, India"
+      }
+    },
+    {
+      "name": "Wockhardt Hospitals",
+      "location": {
+        "type": "Point",
+        "coordinates": [79.05426371277807,21.13229102958045],
+        "address": "27, Ambazari Rd, Corporation Colony, Gandhi Lay Out, Nagpur, Maharashtra 440033, India"
+      }
+    }
+  ]    
+}
