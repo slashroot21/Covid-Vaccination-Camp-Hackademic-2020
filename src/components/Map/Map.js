@@ -11,7 +11,7 @@ export default function Map() {
       longitude: 77.582902,
       width: "100%",
       height: "50em",
-      zoom: 0,
+      zoom: 5,
    });
 
    const [selectedCamp, setSelectedCamp] = useState(null);
