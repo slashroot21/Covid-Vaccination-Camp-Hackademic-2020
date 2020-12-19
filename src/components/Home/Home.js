@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom';
 
 import vacinneImg from './../../assets/vaccine.jpg';
 import govLogo from './../../assets/gov-logo.png';

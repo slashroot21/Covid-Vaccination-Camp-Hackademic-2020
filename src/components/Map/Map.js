@@ -29,6 +29,8 @@ export default function Map() {
       };
    }, []);
 
+   const API_KEY = 'pk.eyJ1Ijoic2xhc2hyb290IiwiYSI6ImNraW40NWN2cTB6NDUydG13djV4ajZodW0ifQ.ZjSmlwoUjy8HTp3DLsqAFw';
+
    return (
       <div>
          <header>
@@ -41,8 +43,8 @@ export default function Map() {
          </header>
          <ReactMapGL
             {...viewport}
-            mapboxApiAccessToken='pk.eyJ1Ijoic2xhc2hyb290IiwiYSI6ImNraW40NWN2cTB6NDUydG13djV4ajZodW0ifQ.ZjSmlwoUjy8HTp3DLsqAFw'
-            mapStyle="mapbox://styles/slashroot/ckivj2b2m3w3o19rptbirwo8q"
+            mapboxApiAccessToken={process.env.API_KEY || API_KEY}
+            mapStyle="mapbox://styles/slashroot/ckivui51u46r919pf4o1sehyp"
             onViewportChange={viewport => {
                setViewport(viewport);
             }}
