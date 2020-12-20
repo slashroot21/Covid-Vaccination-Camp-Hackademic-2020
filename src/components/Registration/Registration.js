@@ -55,21 +55,21 @@ const Registration = () => {
                <label className="label" for="City" class="city" />City :
                <select className="select" name="city" id="city">
                   <option value="Blank"></option>
-                  <option value="Chandigarh">Chandigarh</option>
-                  <option value="Delhi">Delhi</option>
-                  <option value="Jaipur">Jaipur</option>
-                  <option value="Allahabad">Allahabad</option>
-                  <option value="Kolkata">Kolkata</option>
                   <option value="Ahmedabad">Ahmedabad</option>
-                  <option value="Indore">Indore</option>
+                  <option value="Bangaluru">Bengaluru</option>
                   <option value="Bhubaneshwar">Bhubaneshwar</option>
-                  <option value="Nagpur">Nagpur</option>
-                  <option value="Mumbai">Mumbai</option>
-                  <option value="Hyderabad">Hyderabad</option>
-                  <option value="Goa">Goa</option>
-                  <option value="Bangaluru">Bangaluru</option>
+                  <option value="Chandigarh">Chandigarh</option>
                   <option value="Chennai">Chennai</option>
+                  <option value="Delhi">Delhi</option>
+                  <option value="Goa">Goa</option>
+                  <option value="Hyderabad">Hyderabad</option>
+                  <option value="Indore">Indore</option>
+                  <option value="Jaipur">Jaipur</option>
                   <option value="Kochi">Kochi</option>
+                  <option value="Kolkata">Kolkata</option>
+                  <option value="Mumbai">Mumbai</option>
+                  <option value="Nagpur">Nagpur</option>
+                  <option value="Prayagraj">Prayagraj</option>
                </select>
                <br /> <br /> <br />
                <label className="label" for="aadhar" />Aadhar Number :
