@@ -33,4 +33,11 @@ You can install above mentioned dependencies individually (if required) with:
 
 You may or maynot want to get your own api key for [Mapbox](https://account.mapbox.com/access-tokens/create)
 
+After the installation is compeleted in the project directory run
+
+`npm start`
+
+wait for the server to load
+
+
 - **created by group _Freshie_ for _Hackademic-2020_**
