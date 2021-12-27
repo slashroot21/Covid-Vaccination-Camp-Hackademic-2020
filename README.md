@@ -2,7 +2,7 @@
 
 A webApp for locating vaccination camp around India and registering yourself for vaccination
 
-## Tech and Modules included are:
+## Tech and Modules included:
 - React JS (with CSS)
 - Mapbox
 
